@@ -5,3 +5,10 @@
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0.html
+
+Parameters:
+* Parameter: linear.weight_0_0: -10.0
+* Parameter: linear.weight_1_0: 1.26
+* Parameter: linear.bias_: 4.44
+
+![newplot.png](/run/user/1000/doc/18829a7/newplot.png)
