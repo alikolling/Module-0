@@ -11,4 +11,4 @@ Parameters:
 * Parameter: linear.weight_1_0: 1.26
 * Parameter: linear.bias_: 4.44
 
-![newplot.png](/run/user/1000/doc/18829a7/newplot.png)
+![newplot.png](https://github.com/alikolling/Module-0/blob/master/newplot.png)
