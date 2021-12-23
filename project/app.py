@@ -2,7 +2,7 @@ import streamlit as st
 from interface.streamlit_utils import get_img_tag
 from interface.train import render_train_interface
 import sys
-from run_torch import TorchTrain
+#from run_torch import TorchTrain
 
 module_num = int(sys.argv[1])
 
